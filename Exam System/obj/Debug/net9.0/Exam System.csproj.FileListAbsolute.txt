@@ -1,0 +1,347 @@
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\appsettings.Development.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\appsettings.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Exam System.staticwebassets.endpoints.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Exam System.exe
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Exam System.deps.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Exam System.runtimeconfig.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Exam System.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Exam System.pdb
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Azure.Core.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Azure.Identity.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Humanizer.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.ClientModel.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.CodeDom.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Text.Json.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.csproj.AssemblyReference.cache
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.AssemblyInfoInputs.cache
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.AssemblyInfo.cs
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.csproj.CoreCompileInputs.cache
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.MvcApplicationPartsAssemblyInfo.cs
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.sourcelink.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\scopedcss\bundle\Exam System.styles.css
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets.build.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets.development.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets\msbuild.Exam System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets\msbuild.Exam System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets\msbuild.build.Exam System.props
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Exam System.props
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Exam System.props
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam Sys.6915F92F.Up2Date
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\refint\Exam System.dll
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.pdb
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\Exam System.genruntimeconfig.cache
+D:\Courses\ExaminationSystem\Examination System\Examination System\obj\Debug\net9.0\ref\Exam System.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\appsettings.Development.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\appsettings.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Exam System.staticwebassets.endpoints.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Exam System.exe
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Exam System.deps.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Exam System.runtimeconfig.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Exam System.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Exam System.pdb
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Azure.Core.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Azure.Identity.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Humanizer.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.ClientModel.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.CodeDom.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Formats.Asn1.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Text.Json.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.csproj.AssemblyReference.cache
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.AssemblyInfoInputs.cache
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.AssemblyInfo.cs
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.csproj.CoreCompileInputs.cache
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.MvcApplicationPartsAssemblyInfo.cs
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.MvcApplicationPartsAssemblyInfo.cache
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.sourcelink.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\scopedcss\bundle\Exam System.styles.css
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets.build.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets.development.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets\msbuild.Exam System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets\msbuild.Exam System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets\msbuild.build.Exam System.props
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Exam System.props
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Exam System.props
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam Sys.6915F92F.Up2Date
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\refint\Exam System.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.pdb
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\Exam System.genruntimeconfig.cache
+D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\ref\Exam System.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
