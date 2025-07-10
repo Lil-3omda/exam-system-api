@@ -345,3 +345,4 @@ D:\Courses\ExaminationSystem\Exam System\Exam System\obj\Debug\net9.0\ref\Exam S
 D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Courses\ExaminationSystem\Exam System\Exam System\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
