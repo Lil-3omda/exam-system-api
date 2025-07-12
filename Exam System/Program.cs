@@ -50,6 +50,18 @@ namespace Exam_System
                     };
                 });
 
+            builder.Services.AddCors(options =>
+            {
+                options.AddDefaultPolicy(policy =>
+                {
+                    policy.WithOrigins("http://localhost:4200") // Allow Angular app
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
+            });
+
+            
+
             var app = builder.Build();
             using (var scope = app.Services.CreateScope())
             {
@@ -62,9 +74,9 @@ namespace Exam_System
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
-
             app.UseHttpsRedirection();
             app.UseAuthentication();
+            app.UseCors();
             app.UseAuthorization();
             
 

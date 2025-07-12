@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Courses\\ExaminationSystem\\Exam System\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|d:\\courses\\examinationsystem\\exam system\\exam system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|solutionrelative:exam system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|d:\\courses\\examinationsystem\\exam system\\exam system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|solutionrelative:exam system\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|d:\\courses\\examinationsystem\\exam system\\exam system\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|solutionrelative:exam system\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|d:\\courses\\examinationsystem\\exam system\\exam system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|solutionrelative:exam system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{622564C8-9E75-4387-BA55-2D2BA349D19F}|Exam System\\Exam System.csproj|d:\\courses\\examinationsystem\\exam system\\exam system\\controllers\\examscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Courses\\ExaminationSystem\\Exam System\\Exam System\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Exam System\\Controllers\\AuthController.cs",
               "ToolTip": "D:\\Courses\\ExaminationSystem\\Exam System\\Exam System\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Exam System\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAA5wE4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T10:11:16.424Z",
               "EditorCaption": ""
@@ -71,12 +71,11 @@
               "RelativeToolTip": "Exam System\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:07:29.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T10:07:29.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "D:\\Courses\\ExaminationSystem\\Exam System\\Exam System\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "Exam System\\DTOs\\RegisterDto.cs",
@@ -84,12 +83,11 @@
               "RelativeToolTip": "Exam System\\DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T10:05:29.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T10:05:29.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Courses\\ExaminationSystem\\Exam System\\Exam System\\appsettings.json",
               "RelativeDocumentMoniker": "Exam System\\appsettings.json",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Exam System\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T08:32:52.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T08:32:52.761Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Exam System\\DTOs\\ExamCreateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:24:19.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:24:19.965Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Exam System\\Controllers\\ExamsController.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAgwDcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:22:19.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:22:19.871Z"
             },
             {
               "$type": "Document",
@@ -136,18 +131,17 @@
               "RelativeToolTip": "Exam System\\Data\\DbInitializer.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-08T14:16:20.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-08T14:16:20.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Courses\\ExaminationSystem\\Exam System\\Exam System\\Program.cs",
               "RelativeDocumentMoniker": "Exam System\\Program.cs",
               "ToolTip": "D:\\Courses\\ExaminationSystem\\Exam System\\Exam System\\Program.cs",
               "RelativeToolTip": "Exam System\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwEwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-08T14:16:14.512Z",
               "EditorCaption": ""

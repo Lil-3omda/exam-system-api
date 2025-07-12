@@ -40,7 +40,7 @@ namespace Exam_System.Controllers
             }
 
             await userManager.AddToRoleAsync(user, dto.Role);
-            return Ok("User Registered");
+            return Ok(new { message = "User Registered" });
         }
 
         [HttpPost("login")]
