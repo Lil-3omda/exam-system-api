@@ -40,8 +40,45 @@ namespace Exam_System.Controllers
             }
 
             await userManager.AddToRoleAsync(user, dto.Role);
-            return Ok(new { message = "User Registered" });
+
+            // Generate JWT like in Login
+            var roles = await userManager.GetRolesAsync(user);
+
+            var authClaims = new List<Claim>
+    {
+        new Claim(ClaimTypes.Name, user.UserName),
+        new Claim(ClaimTypes.NameIdentifier, user.Id),
+        new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+    };
+
+            foreach (var role in roles)
+            {
+                authClaims.Add(new Claim(ClaimTypes.Role, role));
+            }
+
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Config["Jwt:Key"]));
+            var token = new JwtSecurityToken(
+                issuer: Config["Jwt:Issuer"],
+                audience: Config["Jwt:Audience"],
+                expires: DateTime.Now.AddMinutes(double.Parse(Config["Jwt:ExpireMinutes"])),
+                claims: authClaims,
+                signingCredentials: new SigningCredentials(key, SecurityAlgorithms.HmacSha256)
+            );
+
+            return Ok(new
+            {
+                token = new JwtSecurityTokenHandler().WriteToken(token),
+                expiration = token.ValidTo,
+                user = new
+                {
+                    user.Id,
+                    user.UserName,
+                    user.Email,
+                    Role = dto.Role
+                }
+            });
         }
+
 
         [HttpPost("login")]
         public async Task<IActionResult> Login([FromBody] LoginDto dto)
